@@ -1,0 +1,11 @@
+name: uscfpb_tms
+dependencies:
+- python>=3.7
+- matplotlib
+- ipykernel  
+- pip
+- pip:
+  - pandas
+  - imbalanced-learn
+  - pyldavis
+  - tensorflow
